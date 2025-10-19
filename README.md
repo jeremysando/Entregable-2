@@ -1,5 +1,5 @@
 # Entregable 2
-Entrega 2 - Estadística II 
+Estadística II 
 
 Este repositorio contiene la base de datos limpia utilizada para el análisis de la confianza en la Policía Nacional del Perú, elaborada a partir de la encuesta LAPOP 2023. El proceso incluye selección, renombrado y recodificación de variables relevantes para el procesamiento del futuro modelo.
 
