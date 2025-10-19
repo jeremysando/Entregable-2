@@ -16,6 +16,9 @@ En el proceso de limpieza y preparación de datos, varias variables del cuestion
 
 
 
+
+
+
 A continuación, el diccionario de datos: 
 
 | Variable                 | Descripción                                           | Tipo        | Codificación |
