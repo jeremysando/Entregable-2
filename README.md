@@ -15,10 +15,6 @@ En el proceso de limpieza y preparación de datos, varias variables del cuestion
 | **SEXIN**         | `sexo`                    | Sexo de la persona encuestada.                                            | 1 = Hombre / 0 = Mujer (excluye “No se identifica”)                               |
 
 
-
-
-
-
 A continuación, el diccionario de datos: 
 
 | Variable                 | Descripción                                           | Tipo        | Codificación |
