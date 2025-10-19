@@ -3,7 +3,7 @@ Estadística II
 
 Este repositorio contiene la base de datos limpia utilizada para el análisis de la confianza en la Policía Nacional del Perú, elaborada a partir de la encuesta LAPOP 2023. El proceso incluye selección, renombrado y recodificación de variables relevantes para el procesamiento del futuro modelo.
 
-En el proceso de limpieza y preparación de datos, varias variables del cuestionario LAPOP 2023 (Perú) fueron recodificadas a formato binario (0 y 1) con el fin de facilitar la interpretación del futuro modelo. En primera instania, las transformaciones realizadas fueron las siguientes:
+En el proceso de limpieza y preparación de datos, varias variables del cuestionario LAPOP 2023 (Perú) fueron recodificadas a formato binario (0 y 1) con el fin de facilitar la interpretación del futuro modelo. En primera instancia, las transformaciones realizadas fueron las siguientes:
 
 
 | Variable original | Nueva variable            | Descripción                                                               | Recodificación                                                                    |
